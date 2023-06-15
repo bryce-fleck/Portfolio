@@ -3,7 +3,7 @@ const DoraHead = () => {
   return (
     <Head>
       <meta name="viewport" content="width=device-width,initial-scale=1" />
-      <title>Bryce Resume</title>
+      <title>Bryce Fleck</title>
       <link
         type="text/css"
         rel="stylesheet"
